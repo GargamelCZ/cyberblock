@@ -1,0 +1,34 @@
+{
+    "temperature": 1,
+    "downfall": 1,
+    "has_precipitation": true,
+    "effects": {
+        "sky_color": 7438484,
+        "fog_color": 4278867,
+        "water_color": 5329459,
+        "water_fog_color": 5329459,
+        "grass_color": 5329459,
+        "foliage_color": 5997396,
+        "dry_foliage_color": 5129486,
+        "grass_color_modifier": "none",
+        "particle": {
+            "options": {
+                "type": "minecraft:campfire_cosy_smoke"
+            },
+            "probability": 0.001
+        }
+    },
+    "spawners": {
+        "monster": [
+            {
+                "type": "minecraft:endermite",
+                "weight": 1,
+                "minCount": 10,
+                "maxCount": 100
+            }
+        ]
+    },
+    "spawn_costs": {},
+    "carvers": [],
+    "features": []
+}

@@ -1,0 +1,19 @@
+{
+    "name": "Cyber Junkyard",
+    "precipitation": "none",
+    "temperature": 1.2,
+    "downfall": 0.0,
+    "effects": {
+        "sky_color": 8421504,
+        "fog_color": 4210752,
+        "water_color": 5987163,
+        "water_fog_color": 4342338,
+        "ambient_sound": "minecraft:ambient.soul_sand_valley.loop"
+    },
+    "category": "none",
+    "temperature_modifier": "none",
+    "spawn_costs": {},
+    "spawners": {},
+    "features": [],
+    "carvers": []
+}
